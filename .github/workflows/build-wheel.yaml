@@ -22,7 +22,7 @@ jobs:
         image_tag:
           - 3.12-alpine
         platform:
-          - linux/amd64
+          - linux/arm/v7
 
     steps:
 
